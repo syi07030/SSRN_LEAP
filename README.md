@@ -18,7 +18,7 @@
 
 #### <u>화면 플로우 차트</u>
 
-  ![그림입니다.  원본 그림의 이름: KakaoTalk_20200827_151846792_02.jpg  원본 그림의 크기: 가로 1501pixel, 세로 981pixel](file:///C:\Users\hgy\AppData\Local\Temp\tmpCA7B.jpg)  
+![캡처](https://user-images.githubusercontent.com/58241963/107252825-1290d200-6a79-11eb-8261-84599b4c9d31.JPG)  
 
 
 
