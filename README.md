@@ -4,7 +4,7 @@
 
 #### 개발언어: Java
 
-#### 개발도구: Android Studio
+#### 개발도구: Android Studio, Zeplin
 
 #### 개발기간: 2020.07~2020.12
 
